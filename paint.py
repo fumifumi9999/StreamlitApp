@@ -1,3 +1,5 @@
+import streamlit as st
+
 def paint():
     def save_paint():
         st.session_state.paint_list.append(canvas_result.image_data)

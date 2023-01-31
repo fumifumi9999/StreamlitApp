@@ -1,3 +1,5 @@
+import streamlit as st
+
 def photo():
 
     # 各種メニューの非表示設定
